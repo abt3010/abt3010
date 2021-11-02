@@ -5,7 +5,7 @@
 
 ## I'm a Learner, Developer, Musicain And a Video Editor!!
 
-- 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
+<!-- - 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]! -->
 - 🌱 I’m currently learning everything 😆
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
@@ -36,12 +36,6 @@
 <br />
 
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img aligin="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.abt3010.vercel.app/api?username=abt3010&show_icons=true&hide_border=true" />
-
-</details>
 
 
 [twitter]: https://mobile.twitter.com/abt3010
